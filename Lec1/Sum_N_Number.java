@@ -9,7 +9,7 @@ public class Sum_N_Number {
 		int sum = 0;
 		while (i <= n) {
 			sum = sum + i;// sum +=i;
-			i = i + 1;
+			i = i + 1;//i++;
 		}
 		System.out.println(sum);
 	}
