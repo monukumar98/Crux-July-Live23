@@ -5,7 +5,7 @@ public class First_Occc {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] arr = { 2, 4, 3, 5, 6, 3, 7, 3, 56, 3, 11 };
-		int item = 31;
+		int item = 3;
 		System.out.println(Index(arr, item, 0));
 
 	}
