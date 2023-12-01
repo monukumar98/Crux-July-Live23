@@ -79,6 +79,7 @@ public class Create_Tree_Using_Level_Order {
 	public static void main(String[] args) {
 		Create_Tree_Using_Level_Order cl = new Create_Tree_Using_Level_Order();
 		cl.Display();
+// 10 20 30 40 50 -1 70 -1 -1 60 -1 -1 -1 -1 -1		
 	}
 
 }
